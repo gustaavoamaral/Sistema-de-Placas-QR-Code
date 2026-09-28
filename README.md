@@ -2,7 +2,6 @@
 
 > SaaS para gerenciamento de QR Codes dinâmicos e plaquinhas físicas para empresas.
 
-![PlacaQR Pro Dashboard](./assets/dashboard.png)
 
 ## 📌 Sobre o projeto
 
